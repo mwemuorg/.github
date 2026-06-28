@@ -43,7 +43,7 @@ Core work by [@sha0coder](https://github.com/sha0coder) (creator & maintainer),
 [@acheron2302](https://github.com/acheron2302) (DLL emulation, loaders, optimizations),
 [@mrexodia](https://github.com/mrexodia) (GDB stub),
 [@ElCapor](https://github.com/ElCapor) (instruction hooks & exceptions) and
-[@SleathCobra](https://github.com/SleathCobra) (pymwemu).
+[@SleathCobra](https://github.com/SleathCobra) (pymwemu — Python type stubs `.pyi` for IDE autocompletion).
 
 Thanks also to everyone who opened issues and shaped the direction —
 [@Thell](https://github.com/Thell) (who first proposed a library back in the scemu days),
