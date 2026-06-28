@@ -34,8 +34,24 @@
 - Scriptable from **Rust**, **Python** and **C**
 - `--winver`: genuine Windows system DLLs fetched on demand from Microsoft's symbol server (no ISO needed)
 
+### Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=mwemuorg/mwemu)](https://github.com/mwemuorg/mwemu/graphs/contributors)
+
+Core work by [@sha0coder](https://github.com/sha0coder) (creator & maintainer),
+[@brandonros](https://github.com/brandonros) (AArch64, macOS & serialization),
+[@acheron2302](https://github.com/acheron2302) (DLL emulation, loaders, optimizations),
+[@mrexodia](https://github.com/mrexodia) (GDB stub),
+[@ElCapor](https://github.com/ElCapor) (instruction hooks & exceptions) and
+[@SleathCobra](https://github.com/SleathCobra) (pymwemu).
+
+Thanks also to everyone who opened issues and shaped the direction —
+[@Thell](https://github.com/Thell) (who first proposed a library back in the scemu days),
+[@darknessxk](https://github.com/darknessxk),
+[@icyfox168168](https://github.com/icyfox168168),
+[@carouselcarousel](https://github.com/carouselcarousel),
+[@omarandlorraine](https://github.com/omarandlorraine) and more.
+
 ### License
 
 mwemu is licensed under **GPL-3.0-only**. For commercial or proprietary use under different terms, contact the author for a separate license.
-
-<sub>Built by <a href="https://github.com/sha0coder">@sha0coder</a> and contributors — and thanks to everyone who reported issues and helped shape the project.</sub>
