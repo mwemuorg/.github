@@ -16,15 +16,17 @@
 
 ---
 
-### Repositories
+### The monorepo
 
-| Repo | What it is |
+Everything lives in **[mwemuorg/mwemu](https://github.com/mwemuorg/mwemu)** as a Cargo workspace under `crates/`:
+
+| Crate | What it is |
 |------|------------|
-| [**mwemu**](https://github.com/mwemuorg/mwemu) | The command-line emulator — the flagship tool. |
-| [**libmwemu**](https://github.com/mwemuorg/libmwemu) | Core emulation engine as a Rust library ([crates.io](https://crates.io/crates/libmwemu)). |
-| [**pymwemu**](https://github.com/mwemuorg/pymwemu) | Python bindings ([PyPI](https://pypi.org/project/pymwemu/)). |
-| [**cmwemu**](https://github.com/mwemuorg/cmwemu) | C ABI bindings (cdylib / staticlib + generated header). |
-| [**mwemu-mcp**](https://github.com/mwemuorg/mwemu-mcp) | Model Context Protocol server — drive mwemu from AI tooling. |
+| [**mwemu**](https://github.com/mwemuorg/mwemu/tree/main/crates/mwemu) | The command-line emulator — the flagship tool. |
+| [**libmwemu**](https://github.com/mwemuorg/mwemu/tree/main/crates/libmwemu) | Core emulation engine as a Rust library ([crates.io](https://crates.io/crates/libmwemu)). |
+| [**pymwemu**](https://github.com/mwemuorg/mwemu/tree/main/crates/pymwemu) | Python bindings ([PyPI](https://pypi.org/project/pymwemu/)). |
+| [**cmwemu**](https://github.com/mwemuorg/mwemu/tree/main/crates/cmwemu) | C ABI bindings (cdylib / staticlib + generated header). |
+| [**mwemu-mcp**](https://github.com/mwemuorg/mwemu/tree/main/crates/mwemu-mcp) | Model Context Protocol server — drive mwemu from AI tooling. |
 
 ### Highlights
 
