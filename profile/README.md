@@ -27,6 +27,7 @@ Everything lives in **[mwemuorg/mwemu](https://github.com/mwemuorg/mwemu)** as a
 | [**pymwemu**](https://github.com/mwemuorg/mwemu/tree/main/crates/pymwemu) | Python bindings ([PyPI](https://pypi.org/project/pymwemu/)). |
 | [**cmwemu**](https://github.com/mwemuorg/mwemu/tree/main/crates/cmwemu) | C ABI bindings (cdylib / staticlib + generated header). |
 | [**mwemu-mcp**](https://github.com/mwemuorg/mwemu/tree/main/crates/mwemu-mcp) | Model Context Protocol server — drive mwemu from AI tooling. |
+| [**kohunt**](https://github.com/mwemuorg/kohunt) | Linux `.ko` driver vuln-hunter built on libmwemu — finds UAF / double-free / slab-OOB (separate repo). |
 
 ### Highlights
 
