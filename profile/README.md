@@ -48,6 +48,7 @@ Everything lives in **[mwemuorg/mwemu](https://github.com/mwemuorg/mwemu)** as a
 - [@ElCapor](https://github.com/ElCapor) — instruction hooks & exceptions
 - [@SleathCobra](https://github.com/SleathCobra) — pymwemu, Python type stubs `.pyi` for IDE autocompletion
 - [@1ndahous3](https://github.com/1ndahous3) — full-emulation in multiple packers
+- [Claude](https://claude.ai) (Anthropic) — heavy development speed boost
 
 Thanks also to everyone who opened issues and shaped the direction —
 [@Thell](https://github.com/Thell) (who first proposed a library back in the scemu days),
