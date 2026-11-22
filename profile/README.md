@@ -57,4 +57,4 @@ Thanks also to everyone who opened issues and shaped the direction —
 
 ### License
 
-mwemu is licensed under **GPL-3.0-only**. For commercial or proprietary use under different terms, contact the author for a separate license.
+mwemu is licensed under **Apache-2.0**.
