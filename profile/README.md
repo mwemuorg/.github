@@ -43,7 +43,7 @@ Everything lives in **[mwemuorg/mwemu](https://github.com/mwemuorg/mwemu)** as a
 
 - [@sha0coder](https://github.com/sha0coder) — creator & maintainer
 - [@brandonros](https://github.com/brandonros) — AArch64, macOS, serialization & multi-crate architecture proposal
-- [@acheron2302](https://github.com/acheron2302) — DLL emulation, loaders, optimizations
+- [@acheron2302](https://github.com/acheron2302) — DLL emulation, loaders, heavy memory management optimization
 - [@mrexodia](https://github.com/mrexodia) — GDB stub
 - [@ElCapor](https://github.com/ElCapor) — instruction hooks & exceptions
 - [@SleathCobra](https://github.com/SleathCobra) — pymwemu, Python type stubs `.pyi` for IDE autocompletion
