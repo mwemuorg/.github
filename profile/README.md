@@ -41,12 +41,13 @@ Everything lives in **[mwemuorg/mwemu](https://github.com/mwemuorg/mwemu)** as a
 
 [![Contributors](https://contrib.rocks/image?repo=mwemuorg/mwemu)](https://github.com/mwemuorg/mwemu/graphs/contributors)
 
-Core work by [@sha0coder](https://github.com/sha0coder) (creator & maintainer),
-[@brandonros](https://github.com/brandonros) (AArch64, macOS & serialization),
-[@acheron2302](https://github.com/acheron2302) (DLL emulation, loaders, optimizations),
-[@mrexodia](https://github.com/mrexodia) (GDB stub),
-[@ElCapor](https://github.com/ElCapor) (instruction hooks & exceptions) and
-[@SleathCobra](https://github.com/SleathCobra) (pymwemu — Python type stubs `.pyi` for IDE autocompletion).
+- [@sha0coder](https://github.com/sha0coder) — creator & maintainer
+- [@brandonros](https://github.com/brandonros) — AArch64, macOS & serialization
+- [@acheron2302](https://github.com/acheron2302) — DLL emulation, loaders, optimizations
+- [@mrexodia](https://github.com/mrexodia) — GDB stub
+- [@ElCapor](https://github.com/ElCapor) — instruction hooks & exceptions
+- [@SleathCobra](https://github.com/SleathCobra) — pymwemu, Python type stubs `.pyi` for IDE autocompletion
+- [@1ndahous3](https://github.com/1ndahous3) — full-emulation in multiple packers
 
 Thanks also to everyone who opened issues and shaped the direction —
 [@Thell](https://github.com/Thell) (who first proposed a library back in the scemu days),
